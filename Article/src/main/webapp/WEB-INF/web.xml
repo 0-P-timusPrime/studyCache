@@ -6,4 +6,8 @@ xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/
   <welcome-file-list>
   	<welcome-file>/WEB-INF/jsp/login.jsp</welcome-file>
   </welcome-file-list>
+  <context-param>
+  	<param-name></param-name>
+  	<param-value></param-value>
+  </context-param>
 </web-app>
